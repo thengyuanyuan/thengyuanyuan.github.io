@@ -83847,7 +83847,7 @@ $S:175}
 A.a2Z.prototype={
 $0(){var s=document.createElement("a")
 s.href="assets/files/thengyuanyuan_cv_20240511.pdf"
-s.download="Theng Yuan Yuan - CV.pdf"
+s.download="Theng Yuan Yuan - CV"
 s.click()},
 $S:0}
 A.FQ.prototype={$ia4:1}
